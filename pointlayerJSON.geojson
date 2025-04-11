@@ -5,7 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "id": 0, "photo": "https://github.com/conchud/capstone/blob/main/IMG_1031.jpg?raw=true", "damage/con": "flooding spot", "location": "S side East Decherd & Glass St" }, "geometry": { "type": "Point", "coordinates": [ -96.484992890753745, 31.027131877645893 ] } },
 { "type": "Feature", "properties": { "id": 1, "photo": null, "damage/con": "pothole", "location": "Middle of turn into elementary" }, "geometry": { "type": "Point", "coordinates": [ -96.484051698040545, 31.027829962316062 ] } },
-{ "type": "Feature", "properties": { "id": 2, "photo": "https://github.com/conchud/capstone/blob/main/IMG_1044.jpg?raw=true", "damage/con": "", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.486399528557442, 31.033135629151211 ] } },
+{ "type": "Feature", "properties": { "id": 2, "photo": "https://github.com/conchud/capstone/blob/main/IMG_1044.jpg?raw=true", "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.486399528557442, 31.033135629151211 ] } },
 { "type": "Feature", "properties": { "id": 3, "photo": "https://github.com/conchud/capstone/blob/main/IMG_1047.jpg?raw=true", "damage/con": "pothole", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.486760577256845, 31.033996280508255 ] } },
 { "type": "Feature", "properties": { "id": 4, "photo": null, "damage/con": "pothole", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.486074267086451, 31.034958021854852 ] } },
 { "type": "Feature", "properties": { "id": 5, "photo": null, "damage/con": "pothole", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.48375531592815, 31.035694873081564 ] } },
@@ -38,7 +38,7 @@
 { "type": "Feature", "properties": { "id": 32, "photo": null, "damage/con": "pothole", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.486132115057302, 31.029884513333094 ] } },
 { "type": "Feature", "properties": { "id": 33, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.486018394743255, 31.029404265760832 ] } },
 { "type": "Feature", "properties": { "id": 34, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.489156756762313, 31.027907175268425 ] } },
-{ "type": "Feature", "properties": { "id": 35, "photo": null, "damage/con": null, "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.489450101684028, 31.027810034797024 ] } },
+{ "type": "Feature", "properties": { "id": 35, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.489450101684028, 31.027810034797024 ] } },
 { "type": "Feature", "properties": { "id": 36, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.490033596209784, 31.027640393445978 ] } },
 { "type": "Feature", "properties": { "id": 37, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.489563542684692, 31.02673387793034 ] } },
 { "type": "Feature", "properties": { "id": 38, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.492464441392798, 31.025818030048928 ] } },
