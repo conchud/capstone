@@ -56,7 +56,7 @@
 { "type": "Feature", "properties": { "id": 50, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.489076026847584, 31.025417636861025 ] } },
 { "type": "Feature", "properties": { "id": 51, "photo": null, "damage/con": "flooding spot", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.489280122095678, 31.025686817531685 ] } },
 { "type": "Feature", "properties": { "id": 52, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.489112964550927, 31.026912257599516 ] } },
-{ "type": "Feature", "properties": { "id": 53, "photo": null, "damage/con": "flooding spot", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.485421672728862, 31.027581314185248 ] } },
+{ "type": "Feature", "properties": { "id": 53, "photo": "https://github.com/conchud/capstone/blob/main/IMG_1088.jpg?raw=true", "damage/con": "flooding spot", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.485421672728862, 31.027581314185248 ] } },
 { "type": "Feature", "properties": { "id": 54, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.485392793699901, 31.028050972566138 ] } },
 { "type": "Feature", "properties": { "id": 55, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.485494996395886, 31.028014427091538 ] } },
 { "type": "Feature", "properties": { "id": 56, "photo": null, "damage/con": "other road damage", "location": null }, "geometry": { "type": "Point", "coordinates": [ -96.485900308095495, 31.027883583251668 ] } },
